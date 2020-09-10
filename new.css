@@ -1,0 +1,86 @@
+body{
+    font-family: berylium;
+}
+
+.header{
+    background-color: rgb(179, 82, 138);
+    height: 90px;
+}
+
+.main{
+    background-color: rgb(238, 83, 109);
+    height: 2850px;
+    padding: 50px 80px;
+}
+
+.footer{
+    background-color: rgb(177, 75, 135);
+    height: 90px;
+    
+}
+
+.header-logo, .footer-logo{
+    color: rgb(192, 197, 199);
+    float: left;
+    font-size: 25px;
+    padding: 40px 20px;
+    
+    
+     
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 40px 100px;
+}
+
+input{
+    float: right;
+    padding: 5px;
+    margin: 30px 20px;
+    background-color: rgb(228, 159, 171);
+}
+
+.copy-container h1{
+    font-size: 40px;
+    border: 2px solid rgb(209, 243, 209);
+    padding-left: 200px;
+}
+
+.contents{
+    margin-top: 10px;
+    border-bottom: 2px solid rgb(221, 198, 241);
+    
+}
+
+.pic img{
+    height: 900px;
+    width: 100%;
+    margin: 1px;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(59, 2, 2);
+}
+
+.course-image img{
+    height: 500px;
+    width: 100%;
+    
+}
+h3{
+    font-size: 25px;
+    color: rgb(59, 2, 2);
+}
+.contact-list{
+    float: left;
+    padding: 10px 30px;
+}
+.contact-list input{
+    margin: 5px;
+    padding: 10px;
+    height: 60px;
+    width: 180px;
+}
